@@ -14,7 +14,7 @@ The <strong>k-Nearest Neighbors</strong> calculation (or kNN for short) is a sim
 
 The implementation will be specific to classification problems and will be demonstrated using the Iris flowers classification problem.
 </p>
-<p><a href="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data">iris.data</a>
+<p>Get the dataset:<a href="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data">iris.data</a>
 </p>
   </body>
 </html>
